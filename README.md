@@ -49,6 +49,6 @@ Work in progress.
 - [x] Data loading and inspection
 - [x] Missing value handling
 - [x] Target variable analysis
-- [ ] Categorical encoding
-- [ ] Train/test split
-- [ ] Model training and comparison
+- [X] Categorical encoding
+- [X] Train/test split
+- [X] Model training and comparison
